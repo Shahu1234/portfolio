@@ -299,6 +299,16 @@ form.btn2{
      margin-top: 20px;
      cursor: pointer;
 }
+.mail{
+    text-decoration: none;
+    color: #fff;
+}
+.mail i{
+    color: #f8004e;
+    margin-right: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+}
 .copyright{
     width: 100%;
     text-align: center;
